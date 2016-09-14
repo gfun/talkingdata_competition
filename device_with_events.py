@@ -15,7 +15,6 @@ from sklearn.metrics import log_loss
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
-
 import os
 from scipy.sparse import csr_matrix, hstack
 
